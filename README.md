@@ -1,1 +1,1 @@
-# python-atividade-1
+Atividades de python para o professor Felipe Ishara
